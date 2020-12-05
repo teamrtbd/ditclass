@@ -1,0 +1,113 @@
+*{
+    margin: 0%;
+}
+body{
+    background: rgb(236, 39, 79);
+}
+.header{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    background: chocolate;
+    background-size: cover;
+    color: cornsilk;
+}
+.box1{
+    background: linear-gradient(rgb(3, 121, 255), rgb(2, 19, 117));
+    margin-top: 25px;
+    text-align: center;
+    color: rgb(253, 226, 233);
+    font-family: Haettenschweiler,;
+    width: 500px;
+    margin:auto;
+    border-radius: 30px;
+}
+h2{
+    max-width: 400px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 100px;
+    padding-left: 10px;        
+}
+.divi1{
+    width: 10px;
+    height: 270px;
+    background: rgb(228, 255, 74);
+    display: inline-block;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.linkbox{
+    width: 400px;
+    background: white;
+    padding: 50px;
+    position: absolute;
+    display: inline-block;
+    margin-left: 420px;
+    margin-top: 30px;
+}
+.linkbox a{
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(255, 2, 2);
+    text-decoration: none;
+    text-shadow: 1px 1px 5px black;
+}
+.ya{
+    margin-left: 480px;
+    margin-top: 180px;
+    width: 400px;
+}
+img{
+    margin-left: 20px;
+}
+.pp{
+    width: 400px;
+    background: black;
+    color: white;
+    margin-top: 300px;
+    margin-left: -350px;
+    padding: 5px;
+    display: inline-block;
+    position: absolute;
+    
+}
+.pp h1{
+    font-family: Arial;
+    font-weight: 500;
+    color: red;
+}
+.pp2{
+    width: 400px;
+    background: black;
+    color: white;
+    margin-left: 90px;
+    margin-top: 300px;
+    padding: 5px;position: absolute;
+    display: inline-block;
+
+}
+.pp2 h1{
+    font-family: Arial;
+    font-weight: 500;
+    color: red;
+
+}
+.pp3{
+    width: 400px;
+    background: black;
+    color: white;
+    margin-left: 520px;
+    margin-top: 300px;
+    padding: 5px;position: absolute;
+    display: inline-block;
+
+}
+.pp3 h1{
+    font-family: Arial;
+    font-weight: 500;
+    color: red;
+
+}
