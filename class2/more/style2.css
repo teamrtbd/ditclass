@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+}
+body{
+    background: wheat;
+}
+.ex{
+    border-collapse: collapse;
+    border-color: brown;
+    margin: auto;
+    margin-top: 7%;
+    display: inline-block;
+    margin-left: 3%;
+}
+.ex thead tr th{
+    padding: 14px;
+    background: #ddd;
+}
+.ex tbody tr td{
+    background: tomato;
+    color: white;
+    padding: 15px;
+}
+.header{
+    background: yellow;
+    text-transform: uppercase;
+    text-align: center;
+}
+.agf{
+    display: inline-block;
+    margin-top: 0%;
+}
+.rrr2{
+    list-style-type: circle;
+}
+.rrr3{
+    list-style-type: decimal;
+}

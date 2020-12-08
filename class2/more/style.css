@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+}
+body{
+    background:red;
+}
+.forum{
+    padding: 60px;
+    width: 400px;
+    background: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15% 0%;
+    margin: 5%;
+    margin-top: 5%;
+    display: inline-block;
+}
+.forum input{
+    width: 87%;
+    display: block;
+    outline: none;
+    border: none;
+    padding: 20px;
+    background: rgb(218, 216, 216);
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+.forum label{
+    color: rgb(39, 4, 4);
+    font-family: arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px black;
+}
+.forum h1{
+    text-align: center;
+    font-size: 28px;
+    color: rgb(29, 2, 2);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 1px 4px rgb(138, 114, 10);
+    margin: 1px 0px 40px 0px;
+}
+.fo2 input{
+    width: 87%;
+    display: block;
+    outline: none;
+    border: none;
+    padding: 20px;
+    background: rgb(218, 216, 216);
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+.fo2{
+    padding: 60px;
+    width: 400px;
+    background: rgb(255, 255, 255);
+    color: black;
+    border-radius: 0% 15%;
+    display: inline-block;
+    position: absolute;
+    margin: 5%;
+
+}
+
+.fo2 label{
+    color: rgb(39, 4, 4);
+    font-family: arial;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px black;
+}
+.fo2 h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+    color: rgb(29, 2, 2);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 1px 4px rgb(138, 114, 10);
+    margin: 1px 0px 40px 0px;
+}
+.tro{
+    width: 100% !important;
+    border-radius: 0% !important;
+    color: white;
+    background: rgb(11, 88, 81) !important;
+    cursor: pointer;
+}
+.bq{
+    width: 77% !important;
+    border-radius: 0% !important;
+    color: white;
+    background: rgb(11, 88, 81) !important;
+    cursor: pointer;
+}
+.htt1{
+    text-align: center;
+    background: rgb(142, 241, 42);
+    width: 100%;
+    text-transform: uppercase;
+    color: rgb(59, 27, 4);
+}
+button{
+    padding: 5px;
+    background: lightseagreen;
+    position: inherit;
+    font-size: 40px;
+    margin-top: 10px;
+    
+}
+button A:hover{
+    background: rgb(240, 230, 230);
+    color: red;
+}
+button a{
+    text-decoration: none;
+    font-weight: 800;
+    width: 100%;
+}
